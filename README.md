@@ -8,10 +8,9 @@ A centralized web application designed to collect, organize, and present real-ti
 ---
 
 ## 👥 Authors & Contributors
-- **Disha Birari** (IEN: 12327014)
-- **Bhakti Patil** (IEN: 12217011)
+- 
 - **Soham S. Bhere** (IEN: 12217012)
-- **Shafe Ahemad** (IEN: 12347003)
+
 
 **Guide:** Mrs. Swati Patil  
 **Department:** Computer Science & Design, New Horizon Institute of Technology and Management (University of Mumbai)
